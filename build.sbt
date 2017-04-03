@@ -2,5 +2,6 @@ name := "stegosaurus"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+enablePlugins(ScalaNativePlugin)
 
+scalaVersion := "2.11.8"
