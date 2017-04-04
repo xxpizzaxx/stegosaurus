@@ -3,7 +3,7 @@ import scala.collection.BitSet
 /**
   * Created by Andi on 03/04/2017.
   */
-object Stegosaurus extends App {
+object Stegosaurus {
 
   val pairs: List[(Char, Char)] = List(
     ('A', 'Α'), // greek capital letter alpha
